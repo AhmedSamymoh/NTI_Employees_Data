@@ -1,4 +1,4 @@
-#### **Please note that this project was developed as part of the NTI (National Telecommunication Institute) Embedded Systems track for the C and Embedded C Course.
+#### * Please note that this project was developed as part of the NTI (National Telecommunication Institute) Embedded Systems track for the C and Embedded C Course.
 
 # Employees_Data
 
