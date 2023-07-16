@@ -1,3 +1,5 @@
+Please note that this project was developed as part of the NTI (National Telecommunication Institute) Embedded Systems track for the C and Embedded C Course.
+
 # NTI_Employees_Data
 
 NTI_Employees_Data is a project that allows you to manage employee data using a singly linked list data structure. It provides the following features:
@@ -29,4 +31,3 @@ Contributions to NTI_Employees_Data are welcome! If you find any issues or have 
 ## License
 NTI_Employees_Data is released under the MIT License.
 
-Please note that this project was developed as part of the NTI (National Telecommunication Institute) Embedded Systems track for the C and Embedded C Course.
