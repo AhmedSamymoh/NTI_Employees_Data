@@ -6,7 +6,6 @@ NTI_Employees_Data is a project that allows you to manage employee data using a 
 
 ![Example Image](https://github.com/AhmedSamymoh/NTI_Employees_Data/raw/main/testcases/Picture.png)
 
-
 ## Features
 - Add a new employee: Enter the employee's name, ID, age, salary, and title (Junior, Senior, or Lead).
 - Modify employee data: Update the name, age, and salary of an existing employee.
