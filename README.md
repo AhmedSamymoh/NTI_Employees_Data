@@ -14,7 +14,7 @@ NTI_Employees_Data is a project that allows you to manage employee data using a 
 - View all employees: Show the details of all employees stored in the system.
 
 ## Contributing
-Contributions to Employees_Data are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
+Contributions to Employees_Data are welcome!
 
 ## License
 NTI_Employees_Data is released under the MIT License.
